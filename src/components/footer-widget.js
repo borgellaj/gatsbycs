@@ -1,5 +1,5 @@
 import React from "react";
-import styled from 'styled-components';
+import styled from "styled-components";
 import JordanIMG from "../images/jordan.jpg";
 import JudIMG from "../images/jud.jpg";
 import MeteorIMG from "../images/meteor.png";

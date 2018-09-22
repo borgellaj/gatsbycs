@@ -25,5 +25,7 @@ module.exports = {
     },
 	'gatsby-plugin-catch-links',
 	'gatsby-transformer-remark',
+	'gatsby-plugin-styled-components'
+	pathPrefix: `/codescholar-beta`,
   ],
 }
