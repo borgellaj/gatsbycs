@@ -1,5 +1,4 @@
 import React from 'react'
-import { Link } from 'gatsby'
 import styled from 'styled-components';
 import "font-awesome/css/font-awesome.min.css";
 import Banner from '../components/banner';

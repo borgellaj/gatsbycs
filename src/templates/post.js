@@ -1,5 +1,4 @@
 import React from 'react';
-import Helmet from 'react-helmet';
 import Layout from '../components/layout';
 export default function Template({data}) {
   const {markdownRemark: post} = data;
