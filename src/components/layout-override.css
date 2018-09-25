@@ -62,6 +62,7 @@ ol.lesson-nav{list-style-position:inside;margin-left:0;}
 .lft.bg-cs {padding: 12px;max-width: 200px;text-align:center;}
 .lft.bg-cs a {text-decoration: none;font-size: 20px;font-weight: 700;color: #fff;}
 .lesson-nav li a:hover {color: #808080;text-decoration: none;}
+.tutorial .two-thirds h4 {font-size: 26px;}
 .tutorial .fa {font-size: 12px;}
 .wrapping .dropdown-menu .nav-item {padding: 0;}
 .wrapping .dropdown-menu .nav-link {padding: .2rem 1rem;}

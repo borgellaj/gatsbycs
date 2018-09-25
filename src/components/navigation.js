@@ -53,7 +53,7 @@ export default class Example extends React.Component {
               </NavItem>
 				  <DropdownItem divider />
               <NavItem>
-                <NavLink href="#">Javascript</NavLink>
+                <NavLink href="/tutorial-jquery">JQuery</NavLink>
               </NavItem>
                 </DropdownMenu>
               </UncontrolledDropdown>
