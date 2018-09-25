@@ -1,5 +1,4 @@
 import React from "react";
-import Link from "gatsby-link";
 import cautiousDog from "../images/big_educated.jpg";
 import styled from 'styled-components';
 import Layout from '../components/layout';
@@ -30,7 +29,7 @@ Focuses on creating learning environments that has support to get through obstac
 </p>
 </div>
 <div className="one-third">
-    <img src={cautiousDog} />	  
+    <img src={cautiousDog} alt="sidebar-img"/>	  
 </div>
 </div>
 <ColThreeContainer>

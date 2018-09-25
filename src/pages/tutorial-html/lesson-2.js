@@ -1,5 +1,4 @@
 import React from 'react'
-import styled from 'styled-components';
 import "font-awesome/css/font-awesome.min.css";
 import Layout from '../../components/layout';
 import HTMLImgA from "../../images/page-2-1.png";
@@ -17,15 +16,15 @@ const TutorialHTMLPage2 = () => (
 <ol className="lesson-nav">
 <li><a href="/tutorial-html" >Introduction to HTML</a></li>
 <li className="current-link">Let’s Learn HTML</li>
-<li><a href="Text.html" >Text</a></li>
-<li><a href="List.html" >List</a></li>
-<li><a href="Links.html" >Links</a></li>
-<li><a href="Images.html" >Images</a></li>
-<li><a href="Tables.html" >Tables</a></li>
-<li><a href="Forms.html" >Forms</a></li>
-<li><a href="Markups.html" >Markups</a></li>
-<li><a href="Flash-Movies.html" >Flash Movies</a></li>
-<li><a href="Finished.html" >Final Page</a></li>
+<li><a href="/tutorial-html/lesson-3">Text</a></li>
+<li><a href="/tutorial-html/lesson-4">List</a></li>
+<li><a href="/tutorial-html/lesson-5">Links</a></li>
+<li><a href="/tutorial-html/lesson-6">Images</a></li>
+<li><a href="/tutorial-html/lesson-7">Tables</a></li>
+<li><a href="/tutorial-html/lesson-8">Forms</a></li>
+<li><a href="/tutorial-html/lesson-9">Markups</a></li>
+<li><a href="/tutorial-html/lesson-10">Flash Movies</a></li>
+<li><a href="/tutorial-html/lesson-11">Final Page</a></li>
 </ol>
 </div>
 </div>
@@ -43,8 +42,18 @@ First, open your text editor and start a new file. Name it, something.html. Make
 <p><img src={HTMLImgC} alt="tutorial"/></p>
 <p>Now we'll learn about the last part of Chapter 1. How to break a page and make space on the page. The <i className="fa fa-chevron-left"></i> br <i className="fa fa-chevron-right"></i> tag! This one is special this one doesn't need a closing tag. you can just write it by itself and it will be done. </p>
 <p><img src={HTMLImgD} alt="tutorial"/></p>
+<h4>Summary</h4>
+<ul className="BulletPoints">
+<li>HTML pages are text documents.</li>
+<li>HTML uses tags (characters that sit inside angled brackets) to give the information they surround special meaning.</li>
+<li>Tags are often referred to as elements</li>
+<li>Tags usually come in pairs. The opening tag denotes the start of a piece of content; the closing tag denotes the end.</li>
+<li>Opening tags can carry attributes, which tell us more about the content of that element.</li>
+<li>Attributes require a name and a value</li>
+<li>To learn HTML you need to know what tags are available for you to use, what they do, and where they can go.</li>
+</ul>
 <p className="bg-cs lft">
-<a href="#" >NEXT LESSON</a>
+<a href="/tutorial-html/lesson-3" >NEXT LESSON</a>
 </p>
 </div>
 </div>

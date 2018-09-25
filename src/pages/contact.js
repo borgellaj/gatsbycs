@@ -1,5 +1,4 @@
 import React from "react";
-import Link from "gatsby-link";
 import Layout from '../components/layout';
 const ContactPage = () => (
 <Layout>
@@ -7,7 +6,7 @@ const ContactPage = () => (
   <div className="third-wrap">
   
   <div className="two-thirds">
-<iframe className="ourMap" src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d12108.712272540175!2d-74.017745!3d40.648005!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sus!4v1537158629224"></iframe>
+<iframe className="ourMap" src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d12108.712272540175!2d-74.017745!3d40.648005!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sus!4v1537158629224" title="iframe-map"></iframe>
   </div>
 
   <div className="one-third">

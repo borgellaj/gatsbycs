@@ -12,16 +12,16 @@ const TutorialHTMLPage = () => (
 <h4 className="media-heading course-title">Basics</h4>
 <ol className="lesson-nav">
 <li className="current-link">Introduction to HTML</li>
-<li><a href="/tutorial-html/lesson-2" >Let’s Learn HTML</a></li>
-<li><a href="Text.html" >Text</a></li>
-<li><a href="List.html" >List</a></li>
-<li><a href="Links.html" >Links</a></li>
-<li><a href="Images.html" >Images</a></li>
-<li><a href="Tables.html" >Tables</a></li>
-<li><a href="Forms.html" >Forms</a></li>
-<li><a href="Markups.html" >Markups</a></li>
-<li><a href="Flash-Movies.html" >Flash Movies</a></li>
-<li><a href="Finished.html" >Final Page</a></li>
+<li><a href="/tutorial-html/lesson-2">Let’s Learn HTML</a></li>
+<li><a href="/tutorial-html/lesson-3">Text</a></li>
+<li><a href="/tutorial-html/lesson-4">List</a></li>
+<li><a href="/tutorial-html/lesson-5">Links</a></li>
+<li><a href="/tutorial-html/lesson-6">Images</a></li>
+<li><a href="/tutorial-html/lesson-7">Tables</a></li>
+<li><a href="/tutorial-html/lesson-8">Forms</a></li>
+<li><a href="/tutorial-html/lesson-9">Markups</a></li>
+<li><a href="/tutorial-html/lesson-10">Flash Movies</a></li>
+<li><a href="/tutorial-html/lesson-11">Final Page</a></li>
 </ol>
 </div>
 </div>
