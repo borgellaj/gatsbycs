@@ -35,7 +35,7 @@ const IndexPage = () => (
 <p className="leading-loose">
 Hypertext Markup Language, a standardized system for tagging text files to achieve font color, graphic, and hyperlink effects on Web pages.
 </p>
-<p className="RmSec bg-cs"><a href="/tutorials">Learn More</a></p>
+<p className="RmSec bg-cs"><a href="/tutorial-html">Learn More</a></p>
 </div>
 <div className="ColThree">
 <img src={CssIMG} alt="CSS 3"/>
@@ -43,7 +43,7 @@ Hypertext Markup Language, a standardized system for tagging text files to achie
 <p className="leading-loose">
 CSS gives more control over the appearance of a web page to the page creator than to the browser designer or the viewer. 
 </p>
-<p className="RmSec bg-cs"><a href="/tutorials">Learn More</a></p>
+<p className="RmSec bg-cs"><a href="/tutorial-css">Learn More</a></p>
 </div>
 <div className="ColThree">
 <img src={JsIMG} alt="Javascript"/>
@@ -51,7 +51,7 @@ CSS gives more control over the appearance of a web page to the page creator tha
 <p className="leading-loose">
 An object-oriented computer programming language commonly used to creat interactive effects within web browsers.
 </p>
-<p className="RmSec bg-cs"><a href="/tutorials">Learn More</a></p>
+<p className="RmSec bg-cs"><a href="/tutorial-javascript">Learn More</a></p>
 </div>
 </ColThreeContainer>
 <ColThreeContainer>
@@ -61,7 +61,7 @@ An object-oriented computer programming language commonly used to creat interact
 <p className="leading-loose">
 A structural framework for dynamic web apps.
 </p>
-<p className="RmSec bg-cs"><a href="/tutorials">Learn More</a></p>
+<p className="RmSec bg-cs"><a href="#">Learn More</a></p>
 </div>
 <div className="ColThree">
 <img src={MeteorIMG} alt="Meteor"/>
@@ -69,7 +69,7 @@ A structural framework for dynamic web apps.
 <p className="leading-loose">
 JavaScript web framework written using Node.js.
 </p>
-<p className="RmSec bg-cs"><a href="/tutorials">Learn More</a></p>
+<p className="RmSec bg-cs"><a href="#">Learn More</a></p>
 </div>
 <div className="ColThree">
 <img src={ReactIMG} alt="ReactJS"/>
@@ -77,7 +77,7 @@ JavaScript web framework written using Node.js.
 <p className="leading-loose">
 JavaScript library for building user interfaces.
 </p>
-<p className="RmSec bg-cs"><a href="/tutorials">Learn More</a></p>
+<p className="RmSec bg-cs"><a href="#">Learn More</a></p>
 </div>
 </ColThreeContainer>  
 </div>
