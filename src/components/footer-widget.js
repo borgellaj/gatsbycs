@@ -2,7 +2,7 @@ import React from "react";
 import styled from "styled-components";
 import JordanIMG from "../images/jordan.jpg";
 import JudIMG from "../images/jud.jpg";
-import MeteorIMG from "../images/meteor.png";
+import MeteorIMG from "../images/meteor.jpg";
 import NsIMG from "../images/newsletter.jpg";
 const ColThreeContainer = styled.div`
 clear:all;overflow:auto;
