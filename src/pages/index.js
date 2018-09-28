@@ -4,12 +4,12 @@ import "font-awesome/css/font-awesome.min.css";
 import Banner from '../components/banner';
 import Layout from '../components/layout';
 import RoadmapIMG from "../images/bg-roadmap.jpg";
-import HtmlIMG from "../images/html-img.png";
-import CssIMG from "../images/css-img.png";
-import JsIMG from "../images/js-img.png";
-import AngularIMG from "../images/angular.png";
-import ReactIMG from "../images/reactjs.png";
-import MeteorIMG from "../images/meteor.png";
+import HtmlIMG from "../images/html-img.jpg";
+import CssIMG from "../images/css-img.jpg";
+import JsIMG from "../images/js-img.jpg";
+import AngularIMG from "../images/angular.jpg";
+import ReactIMG from "../images/reactjs.jpg";
+import MeteorIMG from "../images/meteor.jpg";
 const ColThreeContainer = styled.div`
 clear:all;overflow:auto;margin:0 0 1rem;
 `
