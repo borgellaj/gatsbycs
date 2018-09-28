@@ -30,7 +30,7 @@ const IndexPage = () => (
 <h2 className="cheading">OUR TUTORIALS</h2>
 <ColThreeContainer>
 <div className="ColThree">
-<img src={HtmlIMG} alt="HTML 5"/>
+<img src={HtmlIMG} alt="HTML 5" width="340px" height="247"/>
 <h3>HTML 5</h3>
 <p className="leading-loose">
 Hypertext Markup Language, a standardized system for tagging text files to achieve font color, graphic, and hyperlink effects on Web pages.
@@ -38,7 +38,7 @@ Hypertext Markup Language, a standardized system for tagging text files to achie
 <p className="RmSec bg-cs"><a href="/tutorial-html">Learn More</a></p>
 </div>
 <div className="ColThree">
-<img src={CssIMG} alt="CSS 3"/>
+<img src={CssIMG} alt="CSS 3" width="340px" height="247"/>
 <h3>CSS 3</h3>
 <p className="leading-loose">
 CSS gives more control over the appearance of a web page to the page creator than to the browser designer or the viewer. 
@@ -46,7 +46,7 @@ CSS gives more control over the appearance of a web page to the page creator tha
 <p className="RmSec bg-cs"><a href="/tutorial-css">Learn More</a></p>
 </div>
 <div className="ColThree">
-<img src={JsIMG} alt="Javascript"/>
+<img src={JsIMG} alt="Javascript" width="340px" height="247"/>
 <h3>Javascript</h3>
 <p className="leading-loose">
 An object-oriented computer programming language commonly used to creat interactive effects within web browsers.
@@ -56,7 +56,7 @@ An object-oriented computer programming language commonly used to creat interact
 </ColThreeContainer>
 <ColThreeContainer>
 <div className="ColThree">
-<img src={AngularIMG} alt="Angular"/>
+<img src={AngularIMG} alt="Angular" width="340px" height="247"/>
 <h3>Angular</h3>
 <p className="leading-loose">
 A structural framework for dynamic web apps.
@@ -64,7 +64,7 @@ A structural framework for dynamic web apps.
 <p className="RmSec bg-cs"><a href="#">Learn More</a></p>
 </div>
 <div className="ColThree">
-<img src={MeteorIMG} alt="Meteor"/>
+<img src={MeteorIMG} alt="Meteor" width="340px" height="247"/>
 <h3>Meteor</h3>
 <p className="leading-loose">
 JavaScript web framework written using Node.js.
@@ -72,7 +72,7 @@ JavaScript web framework written using Node.js.
 <p className="RmSec bg-cs"><a href="#">Learn More</a></p>
 </div>
 <div className="ColThree">
-<img src={ReactIMG} alt="ReactJS"/>
+<img src={ReactIMG} alt="ReactJS" width="340px" height="247"/>
 <h3>React</h3>
 <p className="leading-loose">
 JavaScript library for building user interfaces.
