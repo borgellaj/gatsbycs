@@ -55,6 +55,10 @@ export default class Example extends React.Component {
               <NavItem>
                 <NavLink href="/tutorial-jquery">JQuery</NavLink>
               </NavItem>
+				  <DropdownItem divider />
+              <NavItem>
+                <NavLink href="/tutorial-javascript">Javascript</NavLink>
+              </NavItem>			  
                 </DropdownMenu>
               </UncontrolledDropdown>
 			  
