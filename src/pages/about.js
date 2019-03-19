@@ -38,7 +38,7 @@ Focuses on creating learning environments that has support to get through obstac
 <img src={Borgella} alt="Jean Borgella"/>
 <h3 className="text-center">Jean Borgella</h3>
 <p className="leading-loose text-center">
-Formally Project Manager at Joint Program Office supporting Vehicle Communication Technologies and GWU and Old Westbury Alum
+Formally Project Manager at JPO USDOT & Starwood Resorts & GWU and Old Westbury Alum
 </p>
 </div>
 <div className="ColThree">
@@ -52,7 +52,7 @@ New York University
 <img src={Bill} alt="Bill"/>
 <h3 className="text-center">William Massey</h3>
 <p className="leading-loose text-center">
-Assosciate Professor for Mathematics at Princeton University
+Professor for Mathematics at Princeton University
 </p>
 </div>
 </ColThreeContainer>
