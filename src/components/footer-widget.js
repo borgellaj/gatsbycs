@@ -14,7 +14,7 @@ const FooterWidget = () => (
 <h3>Latest News</h3>
 <ul className="FootBlog">
 <li>
-<h4>Title Goes Here</h4>
+/* <h4>Title Goes Here</h4>
 <img src={JordanIMG} alt="placeholder" width="90px" height="80"/>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi elit elit, tristique eget auctor vitae.
 </li>
@@ -28,7 +28,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi elit elit, tristi
 <img src={JordanIMG} alt="placeholder" width="90px" height="80"/>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi elit elit, tristique eget auctor vitae.
 </li>
-</ul>
+</ul> */
 </div>
 <div className="ColThree">
 <h3>Testimonials</h3>
@@ -44,10 +44,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi elit elit, tristi
 "I would have only focused on art design if not for this program"
 </li>
 <li>
-<h4>Title Goes Here</h4>
+/*<h4>Title Goes Here</h4>
 <img src={JordanIMG} alt="placeholder" width="90px" height="80"/>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi elit elit, tristique eget auctor vitae.
-</li>
+</li> */
 </ul>
 </div>
 <div className="ColThree">
