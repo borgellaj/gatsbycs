@@ -8,7 +8,7 @@ const Footer = () => (
           href="http://codescholarly.com/"
           className="font-bold no-underline text-white"
         >
-          Code Scholar.ly
+          Codescholar.ly
         </a>. 2018 All Rights Reserved
       </div>
       <div className="split">
