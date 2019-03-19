@@ -38,7 +38,10 @@ Focuses on creating learning environments that has support to get through obstac
 <img src={Borgella} alt="Jean Borgella"/>
 <h3 className="text-center">Jean Borgella</h3>
 <p className="leading-loose text-center">
-Formally Project Manager at JPO USDOT & Starwood Resorts & GWU and Old Westbury Alum
+Formally Project Manager at JPO USDOT & Starwood Resorts  GWU and Old Westbury Alum
+</p>
+ <p className="leading-loose text-center">
+ George Washington University and SUNY Old Westbury
 </p>
 </div>
 <div className="ColThree">
