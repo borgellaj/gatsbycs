@@ -12,8 +12,7 @@ const ContactPage = () => (
   <div className="one-third">
 <h3>Contact Codescholar.ly</h3>
 <ul className="CList">
-<li>1(917)-379-6497 / info@codescholarly.com</li>
-<li>Mon to Fri - 08:00 to 16:30</li>
+<li>(917)-379-6497 / info@codescholarly.com</li>
 <li>Brooklyn, New York</li>
 </ul>
   <form className="ctack mx-auto">
