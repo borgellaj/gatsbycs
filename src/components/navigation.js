@@ -62,9 +62,11 @@ export default class Example extends React.Component {
                 </DropdownMenu>
               </UncontrolledDropdown>
 			  
-             <!-- <NavItem>
+             <!-- 
+	    	<NavItem>
                 <NavLink href="/blog">Blog</NavLink>
-              </NavItem> -->			  
+              </NavItem> 
+	    -->			  
               <NavItem>
                 <NavLink href="/contact">Contact Us</NavLink>
               </NavItem>			  
