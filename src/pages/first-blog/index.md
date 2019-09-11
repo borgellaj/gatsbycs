@@ -3,6 +3,8 @@ path: "/hello-world"
 date: "2017-07-12T17:12:33.962Z"
 title: "Coding with kids"
 ---
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+
 When Desiree Penaranda asked the wide-eyed 11-year-old girls gathered around her why they wanted to be in the Girls Who Code after-school club, she was astounded by their answers.
 
 “They all said they wanted to be hackers,” says Penaranda. Surprised by their responses, Penaranda and her co-leader Deniz Kecik made a quick pivot. They showed the girls the computer coding projects they were working on as undergraduates at Penn Engineering.
