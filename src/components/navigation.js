@@ -60,13 +60,10 @@ export default class Example extends React.Component {
                 <NavLink href="/tutorial-javascript">Javascript</NavLink>
               </NavItem>			  
                 </DropdownMenu>
-              </UncontrolledDropdown>
-			  
-             <!-- 
+              </UncontrolledDropdown> 
 	    	<NavItem>
                 <NavLink href="/blog">Blog</NavLink>
-              </NavItem> 
-	    -->			  
+              </NavItem> 		  
               <NavItem>
                 <NavLink href="/contact">Contact Us</NavLink>
               </NavItem>			  
