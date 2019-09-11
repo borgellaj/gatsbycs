@@ -234,4 +234,4 @@ Using JavaScript, students learn coding as they produce videos and motion graphi
 
 Free access to Vidcode gives access to the software, some beginner tutorials, and an online community. Tiered for-pay annual subscriptions also give access to projects, lesson plans, and curriculum.
 
-As you can see there are many options if you are looking for websites that teach kids to code using a self-study mode. Depending on your child’s age and interests, you can choose which one to start with.
+As you can see there are many options if you are looking for websites that teach kids to code using a self-study mode. Depending on your child’s age and interests, you can choose which one to start with. [Orginally Posted on codewizardshq](https://codewizardshq.com/coding-websites-for-kids/)
