@@ -3,7 +3,7 @@ import styled from 'styled-components';
 import "font-awesome/css/font-awesome.min.css";
 import Banner from '../components/banner';
 import Layout from '../components/layout';
-import RoadmapIMG from "../images/bg-roadmap.jpg";
+import blackbackgroundIMG from "../images/black-background.jpg";
 import HtmlIMG from "../images/html-img.jpg";
 import CssIMG from "../images/css-img.jpg";
 import JsIMG from "../images/js-img.jpg";
@@ -15,7 +15,7 @@ clear:all;overflow:auto;margin:0 0 1rem;
 `
 const StepSec = styled.div`
 clear:all;
-background-image:url(${RoadmapIMG});
+background-image:url(${blackbackgroundIMG});
 background-size:cover;
 padding:3rem 0;
 h2{
